@@ -1,4 +1,6 @@
-# Adventure Project Week
+# 0126_lsw20a_lambda_mud_project
+
+## Adventure Project Week
 
 - [Trello URL](https://trello.com/invite/b/bpBdt63d/60b0dc52906cc03a26833ee7f72e1199/lambdamud-timothy-hoang)
 
